@@ -6,7 +6,11 @@ Using the Norns Shield as a case study, this guide will provide a system to easi
 The goal is simple: Make something beautiful, quickly and accurately.
 
 Encouraged viewing: [https://www.youtube.com/watch?v=49p1JVLHUos](https://www.youtube.com/watch?v=49p1JVLHUos)
+
+
 Over the years I have organized my different studios and workspaces using the principles of &quot;10 Bullets&quot; by Tom Sachs.
+
+
 
 
 My two main principles for SMD assembly:
@@ -19,11 +23,15 @@ By utilizing **Order of Operations** , the most difficult to source components a
 
 By utilizing **Economy of Motion** and moving around the board in a specific manner, you can reduce confusion, placement errors, and loss of components.
 
+
+
 Before we begin, essential basics:
 
 **Inventory** – Carefully check the BOM and make sure that you have everything before you begin. The SMD portion can be completed in one session. Incomplete SMD projects often remain so.
 
 **Tools** - Unleaded solder requires higher heat. The most common problem I see on Shield builds are cold solder joints. Turn up the heat and work quickly. The modern TS80 type irons are high quality and can do a lot of this work, but only if you use proper heat. Check the data sheet or packaging of your solder and set the temperature accordingly. Use flux during assembly and isopropyl alcohol (99%) to properly clean the board. You will need to clearly see what is happening, especially on the fine pitch components.
+
+
 
 ![](Images/Shieldbot_0_600.jpg)
 
