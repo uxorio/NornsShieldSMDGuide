@@ -24,7 +24,9 @@ Before we begin, essential basics:
 ![](Images/Shieldbot_0_600.jpg)
 
 A bare Norns Shield PCB, do the SMD work before the through hole work. 
+<br>
 <br>(through hole guide is available here [https://github.com/monome/norns-shield](https://github.com/monome/norns-shield) ) 
+<br>
 <br>This guide uses the MFG part numbers from the Octopart BOM, placement order descending from highest quantity to lowest quantity.
 
 ![](Images/Shieldbot_1_600.jpg)
