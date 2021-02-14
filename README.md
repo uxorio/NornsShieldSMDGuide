@@ -26,6 +26,7 @@ By utilizing **Economy of Motion** and moving around the board in a specific man
 <br>
 Before we begin, essential basics:
 <br>
+<br>
 **Inventory** – Carefully check the BOM and make sure that you have everything before you begin. The SMD portion can be completed in one session. Incomplete SMD projects often remain so.
 
 **Tools** - Unleaded solder requires higher heat. The most common problem I see on Shield builds are cold solder joints. Turn up the heat and work quickly. The modern TS80 type irons are high quality and can do a lot of this work, but only if you use proper heat. Check the data sheet or packaging of your solder and set the temperature accordingly. Use flux during assembly and isopropyl alcohol (99%) to properly clean the board. You will need to clearly see what is happening, especially on the fine pitch components.
