@@ -27,6 +27,8 @@ Before we begin, essential basics:
 
 A bare Norns Shield PCB, do the SMD work before the through hole work. (through hole guide is available here [https://github.com/monome/norns-shield](https://github.com/monome/norns-shield) ) This guide uses the MFG part numbers from the Octopart BOM, placement order descending from highest quantity to lowest quantity.
 
+![](Images/Shieldbot_1_600.jpg)
+
 In the areas indicated in **RED** , place:
 
 **10k Resistors (MFG P/N RC0603FR-0710KL, code O1C)**
@@ -37,11 +39,15 @@ R1, R2, R3, R4, R11, R13, R15, R26, R28, R29, R32, R34, R35, R38, R40, R41, R44,
 
 C3, C35, C36, C38, C39, C41, C42, C44, C45, C46
 
+![](Images/Shieldbot_2_600.jpg)
+
 In the area indicated in **YELLOW** , place:
 
 **0.1uF Capacitors (MFG P/N CC0603ZRY5V9BB104, brown in color)**
 
 C1, C4, C6, C8
+
+![](Images/Shieldbot_3_600.jpg)
 
 In the area indicated in **GREEN** , place:
 
@@ -51,11 +57,15 @@ C2 C5 C10 C12
 
 These components can easily be confused with the similarly shaped C14 and C16, so confirm the part number.
 
+![](Images/Shieldbot_4_600.jpg)
+
 In the area indicated in **PINK** , place:
 
 **3.3k Resistors (MFG P/N RC0603FR-073K3L, code 332)**
 
 R7, R9
+
+![](Images/Shieldbot_5_600.jpg)
 
 In the area indicated in **PURPLE** , place:
 
@@ -63,11 +73,15 @@ In the area indicated in **PURPLE** , place:
 
 R8, R10
 
+![](Images/Shieldbot_6_600.jpg)
+
 In the area indicated in **LIGHT BLUE** , place:
 
 **47u Capacitors (MFG P/N C3216X5R1E476M160AC, brown in color, 1206 package)**
 
 C7, C9
+
+![](Images/Shieldbot_7_600.jpg)
 
 In the area indicated in **YELLOWISH GREEN** place:
 
@@ -76,6 +90,8 @@ In the area indicated in **YELLOWISH GREEN** place:
 C11, C13
 
 These can easily be confused with the similar C15 and C17 so confirm part number.
+
+![](Images/Shieldbot_8_600.jpg)
 
 In the area indicated in **LIGHT BROWN** place:
 
@@ -87,11 +103,15 @@ These can easily be confused with the similar C2, C5, C10, and C12 so confirm pa
 
 C14 and C16 will have a slightly opalescent and reflective look.
 
+![](Images/Shieldbot_9_600.jpg)
+
 In the area indicated in **FUCHSIA** place:
 
 **470 ohm Resistors (MFG P/N RC0603FR-07470RL, code 471)**
 
 R12, R14
+
+![](Images/Shieldbot_10_600.jpg)
 
 In the area indicated in **LIGHT**** ORANGE** place:
 
@@ -101,6 +121,8 @@ C15, C17
 
 These can easily be confused with the similar C11 and C13 so confirm part number.
 
+![](Images/Shieldbot_11_600.jpg)
+
 In the area indicated in **PINK** place
 
 0 ohm jumper, indicated by a 0 code
@@ -108,6 +130,8 @@ In the area indicated in **PINK** place
 You can also use a solder blob or clipped resistor lead to bridge the two ground planes.
 
 Jumper looks nicer.
+
+![](Images/Shieldbot_12_600.jpg)
 
 In the area indicated in **RED** place
 
@@ -121,6 +145,8 @@ I recommend not putting any solder on the pads before placement. Add flux to pad
 
 Keep an eye on how much solder you are using and how the crystal sits on the pads. Proper placement is critical to ensure functionality. This area can also create shorts to ground that can affect the Pi operation. Check for bridges with a multimeter before moving on.
 
+![](Images/Shieldbot_13_600.jpg)
+
 The codec is the most difficult and critical component, hence why we place this last.
 
 These are difficult to source, they have become expensive, but most importantly of all, they are nearly impossible to remove without an SMD rework station. If you have more than one, might as well not waste a chip which you can pass onto a friend.
@@ -133,11 +159,17 @@ Now you can deeply clean the board with ISO alcohol. Take special care to clean 
 
 Clean and inspect. Clean and inspect.
 
+![](Images/Shieldbot_14_600.jpg)
+
 Place the input and output jacks.
 
 I place the Input jack first (right side if looking at PCB from bottom) as it has 2 legs between the jacks. Place retainers in holes, tack one leg and move the jack around until it is straight. Tack second leg, check placement. You can still move the jack from side to side with two legs tacked by applying some heat to a joint and horizontal pressure in the direction the jack needs to go. Try to apply downward pressure so the jack lays flat.
 
+![](Images/Shieldbot_15_600.jpg)
+
 Same process. Solder the two outside legs first and get your placement finalized. Take care soldering the leg in between the two jacks. You can easily melt a jack if you are not careful. Do this leg last to prevent having to get your iron in between the jacks more than once.
+
+![](Images/Shieldbot_16_600.jpg)
 
 The SMD portion of the build is now complete. Clean, inspect and check each area for proper component placement.
 
