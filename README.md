@@ -23,6 +23,8 @@ Before we begin, essential basics:
 
 **Tools** - Unleaded solder requires higher heat. The most common problem I see on Shield builds are cold solder joints. Turn up the heat and work quickly. The modern TS80 type irons are high quality and can do a lot of this work, but only if you use proper heat. Check the data sheet or packaging of your solder and set the temperature accordingly. Use flux during assembly and isopropyl alcohol (99%) to properly clean the board. You will need to clearly see what is happening, especially on the fine pitch components.
 
+![](Images/Shieldbot_0_600.jpg)
+
 A bare Norns Shield PCB, do the SMD work before the through hole work. (through hole guide is available here [https://github.com/monome/norns-shield](https://github.com/monome/norns-shield) ) This guide uses the MFG part numbers from the Octopart BOM, placement order descending from highest quantity to lowest quantity.
 
 In the areas indicated in **RED** , place:
