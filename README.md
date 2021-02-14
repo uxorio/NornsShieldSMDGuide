@@ -2,7 +2,7 @@
 Monome Norns Shield SMD Guide / FAQ
 <br>
 <br>
-My two main principles for SMD assembly:
+Two principles for SMD assembly:
 
 **Order of Operations** : The sequence of actions with consideration of the past, present, and future.
 
