@@ -1,17 +1,5 @@
 # NornsShieldSMDGuide
 Monome Norns Shield SMD Guide / FAQ
-
-Using the Norns Shield as a case study, this guide will provide a system to easily complete delicate electronic projects. The system also scales well for when you one day have your own designs or company. 
-
-The goal is simple: Make something beautiful, quickly and accurately.
-<br>
-<br>
-
-Encouraged viewing: [https://www.youtube.com/watch?v=49p1JVLHUos](https://www.youtube.com/watch?v=49p1JVLHUos)
-
-
-Over the years I have organized my different studios and workspaces using the principles of &quot;10 Bullets&quot; by Tom Sachs.
-<br>
 <br>
 <br>
 My two main principles for SMD assembly:
