@@ -31,7 +31,7 @@ A bare Norns Shield PCB, do the SMD work before the through hole work.
 
 ![](Images/Shieldbot_1_600.jpg)
 
-In the areas indicated in **RED** , place:
+In the areas indicated in **RED** place:
 
 **10k Resistors (MFG P/N RC0603FR-0710KL, code O1C)**
 
@@ -43,7 +43,7 @@ C3, C35, C36, C38, C39, C41, C42, C44, C45, C46
 
 ![](Images/Shieldbot_2_600.jpg)
 
-In the area indicated in **YELLOW** , place:
+In the area indicated in **YELLOW** place:
 
 **0.1uF Capacitors (MFG P/N CC0603ZRY5V9BB104, brown in color)**
 
@@ -51,7 +51,7 @@ C1, C4, C6, C8
 
 ![](Images/Shieldbot_3_600.jpg)
 
-In the area indicated in **GREEN** , place:
+In the area indicated in **GREEN** place:
 
 **22pF Capacitors (MFG P/N GRM21BR61E106KA73L, brown in color)**
 
@@ -61,7 +61,7 @@ These components can easily be confused with the similarly shaped C14 and C16, s
 
 ![](Images/Shieldbot_4_600.jpg)
 
-In the area indicated in **PINK** , place:
+In the area indicated in **PINK** place:
 
 **3.3k Resistors (MFG P/N RC0603FR-073K3L, code 332)**
 
@@ -69,7 +69,7 @@ R7, R9
 
 ![](Images/Shieldbot_5_600.jpg)
 
-In the area indicated in **PURPLE** , place:
+In the area indicated in **PURPLE** place:
 
 **1.5k Resistors (MFG P/N RC0603FR-071K5L, code 188)**
 
@@ -77,7 +77,7 @@ R8, R10
 
 ![](Images/Shieldbot_6_600.jpg)
 
-In the area indicated in **LIGHT BLUE** , place:
+In the area indicated in **LIGHT BLUE** place:
 
 **47u Capacitors (MFG P/N C3216X5R1E476M160AC, brown in color, 1206 package)**
 
@@ -115,7 +115,7 @@ R12, R14
 
 ![](Images/Shieldbot_10_600.jpg)
 
-In the area indicated in **LIGHT**** ORANGE** place:
+In the area indicated in **LIGHT ORANGE** place:
 
 **2700p COG Capacitors (MFG P/N GRM1885C1H221JA01D, greyish white in color)**
 
