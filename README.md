@@ -11,10 +11,8 @@ Encouraged viewing: [https://www.youtube.com/watch?v=49p1JVLHUos](https://www.yo
 
 
 Over the years I have organized my different studios and workspaces using the principles of &quot;10 Bullets&quot; by Tom Sachs.
-
-
-
-
+<br>
+<br>
 My two main principles for SMD assembly:
 
 **Order of Operations** : The sequence of actions with consideration of the past, present, and future.
@@ -24,17 +22,15 @@ My two main principles for SMD assembly:
 By utilizing **Order of Operations** , the most difficult to source components are placed last to prevent having to remove them.
 
 By utilizing **Economy of Motion** and moving around the board in a specific manner, you can reduce confusion, placement errors, and loss of components.
-
-
-
+<br>
+<br>
 Before we begin, essential basics:
-
+<br>
 **Inventory** – Carefully check the BOM and make sure that you have everything before you begin. The SMD portion can be completed in one session. Incomplete SMD projects often remain so.
 
 **Tools** - Unleaded solder requires higher heat. The most common problem I see on Shield builds are cold solder joints. Turn up the heat and work quickly. The modern TS80 type irons are high quality and can do a lot of this work, but only if you use proper heat. Check the data sheet or packaging of your solder and set the temperature accordingly. Use flux during assembly and isopropyl alcohol (99%) to properly clean the board. You will need to clearly see what is happening, especially on the fine pitch components.
-
-
-
+<br>
+<br>
 ![](Images/Shieldbot_0_600.jpg)
 
 A bare Norns Shield PCB, do the SMD work before the through hole work. (through hole guide is available here [https://github.com/monome/norns-shield](https://github.com/monome/norns-shield) ) This guide uses the MFG part numbers from the Octopart BOM, placement order descending from highest quantity to lowest quantity.
