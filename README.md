@@ -6,8 +6,8 @@ Using the Norns Shield as a case study, this guide will provide a system to easi
 The goal is simple: Make something beautiful, quickly and accurately.
 
 Encouraged viewing: [https://www.youtube.com/watch?v=49p1JVLHUos](https://www.youtube.com/watch?v=49p1JVLHUos)
-
 Over the years I have organized my different studios and workspaces using the principles of &quot;10 Bullets&quot; by Tom Sachs.
+
 
 My two main principles for SMD assembly:
 
