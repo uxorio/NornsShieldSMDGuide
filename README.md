@@ -13,6 +13,7 @@ Encouraged viewing: [https://www.youtube.com/watch?v=49p1JVLHUos](https://www.yo
 Over the years I have organized my different studios and workspaces using the principles of &quot;10 Bullets&quot; by Tom Sachs.
 <br>
 <br>
+<br>
 My two main principles for SMD assembly:
 
 **Order of Operations** : The sequence of actions with consideration of the past, present, and future.
