@@ -71,7 +71,7 @@ R7, R9
 
 In the area indicated in **PURPLE** place:
 
-**1.5k Resistors (MFG P/N RC0603FR-071K5L, code 188)**
+**1.5k Resistors (MFG P/N RC0603FR-071K5L, code 18B)**
 
 R8, R10
 
