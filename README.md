@@ -53,7 +53,7 @@ C1, C4, C6, C8
 
 In the area indicated in **GREEN** place:
 
-**22pF Capacitors (MFG P/N GRM21BR61E106KA73L, brown in color)**
+**10uF Capacitors (MFG P/N GRM21BR61E106KA73L, brown in color)**
 
 C2 C5 C10 C12
 
